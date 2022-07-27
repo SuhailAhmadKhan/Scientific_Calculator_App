@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name"><b>Calculator App</b></string>
+    <string name="ac"><b>AC</b></string>
+    <string name="c"><b>C</b></string>
+    <string name="right_bracket"><b>)</b></string>
+    <string name="cos"><b>cos</b></string>
+    <string name="tan"><b>tan</b></string>
+    <string name="log"><b>log</b></string>
+    <string name="left_bracket"><b>(</b></string>
+    <string name="sin"><b>sin</b></string>
+    <string name="ln"><b>ln</b></string>
+    <string name="x"><b>x!</b></string>
+    <string name="xx"><b>x²</b></string>
+    <string name="equal"><b>=</b></string>
+    <string name="period"><b>.</b></string>
+    <string name="minus"><b>-</b></string>
+    <string name="six"><b>6</b></string>
+    <string name="root"><b>√</b></string>
+    <string name="inverse"><b>1/x</b></string>
+    <string name="divide"><b>÷</b></string>
+    <string name="seven"><b>7</b></string>
+    <string name="eight"><b>8</b></string>
+    <string name="nine"><b>9</b></string>
+    <string name="multiply"><b>×</b></string>
+    <string name="three"><b>3</b></string>
+    <string name="four"><b>4</b></string>
+    <string name="five"><b>5</b></string>
+    <string name="plus"><b>+</b></string>
+    <string name="one"><b>1</b></string>
+    <string name="two"><b>2</b></string>
+    <string name="pi"><b>π</b></string>
+    <string name="zero"><b>0</b></string>
+</resources>
